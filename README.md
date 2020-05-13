@@ -51,15 +51,13 @@ Brief introduction and implementations of related concepts to Dirichlet Processe
                   <li>Figure 1: DP posterior visualizations for different number of observations of an 'assumed true' DP posterior and <img src="https://render.githubusercontent.com/render/math?math=\alpha,%20H"> values in the prior.</li>
               </ol>
       </ol>
-  <li><b>Notebooks:</b></li>
-  <ol>
-    <li>[DP Visualizations](https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/dirichlet_process.ipynb).</li>
-    <li>Variational Inference [GMM](https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/VariationalInference_GMM.ipynb) and [DPMM](https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/Varaitional%20Inference%20DPMM.ipynb).</li>
-  </ol> 
 </ol>
 </font>
 
-A couple of DP Visualizations, a larger set and explanations in the [notebook](https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/dirichlet_process.ipynb):
+## Notebooks:
+ 1. [DP Visualizations](https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/dirichlet_process.ipynb)
+ 2. Variational Inference [GMM](https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/VariationalInference_GMM.ipynb) and [DPMM](https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/Varaitional%20Inference%20DPMM.ipynb)
+ 
 <img src="https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/images/dp_visual/dp_visualization_alpha_100.png" width="1000">
 
 <img src="https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/images/dp_visual/cumulative_G_alpha_10.png" width="1000">
