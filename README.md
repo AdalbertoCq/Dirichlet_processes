@@ -51,6 +51,11 @@ Brief introduction and implementations of related concepts to Dirichlet Processe
                   <li>Figure 1: DP posterior visualizations for different number of observations of an 'assumed true' DP posterior and <img src="https://render.githubusercontent.com/render/math?math=\alpha,%20H"> values in the prior.</li>
               </ol>
       </ol>
+  <li><b>Notebooks:</b></li>
+  <ol>
+    <li>[DP Visualizations](https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/dirichlet_process.ipynb).</li>
+    <li>Variational Inference [GMM](https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/VariationalInference_GMM.ipynb) and [DPMM](https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/Varaitional%20Inference%20DPMM.ipynb).</li>
+  </ol> 
 </ol>
 </font>
 
