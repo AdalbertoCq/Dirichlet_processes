@@ -1,5 +1,5 @@
 # Dirichlet Process
-### Summary
+## Summary
 <font size="3">   
 Brief introduction and implementations of related concepts to Dirichlet Processes: GEM distribution, Polya Urn, Chinese restaurant process, Stick-Breaking construction, and Posterior of a DP. 
 <br></br>
